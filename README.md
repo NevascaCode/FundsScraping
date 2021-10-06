@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="FundsScraping" title="FundsScraping" src="./github/demo.gif">
+  <img alt="FundsScraping" title="FundsScraping" src="./github/demo.gif", width="685", height="345" >
 </h1>
 <p align="center">Esse projeto foi feito em Python, utilizando a biblioteca BeautifulSoup para raspagem de dados.</p>
 <p align="center">
