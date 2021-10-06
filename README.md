@@ -12,7 +12,7 @@
 
 ## 📄 Sobre
   Robô feito em **Python**  para ser executado no terminal, com o proposito de **automatizar a coleta de dados de fundos imobiliários**.\
-  Utilizando o **BeautifulSoup** para raspagem e o **yagmail** para o envio de email com o conteudo.
+  Utilizando o **BeautifulSoup** para raspagem e o **yagmail** para o envio de email com o conteúdo.
 
 ## ⚙️ Tecnologias
   - [**Python 3.+**](https://www.python.org/)
@@ -25,7 +25,7 @@
 
 ## 🎲 Rodando o Aplicativo
 ### Baixar
- - Baixe o repositório com `git clone` ou diretamente na baixa do repositório.
+ - Baixe o repositório com `git clone` ou diretamente no site do repositório.
     ```bash
     # Clone o repositório do projeto
     > git clone https://github.com/Kawdrin/FundsScraping.git
