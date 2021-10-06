@@ -45,7 +45,7 @@
     SenhaPostador = ...
     ```
  - **EXEMPLO**\
- para mandar um email para **kawan.office@gmail.com** como os fundos **KISU11, VGHF11, MXRF11, VSLH11, HGLG11**, preciso conectar ao meu gmail de bot no caso usarei como exemplo **kawan.investimentos@gmail**, com a senha **pipocadenutela**.\
+ para mandar um email para **kawan.office@gmail.com** como os fundos **KISU11, VGHF11, MXRF11, VSLH11, HGLG11**, preciso conectar ao meu gmail de bot no caso usarei como exemplo **kawan.investimentos@gmail**, com a senha **pipocadenutella**.\
 Ficara assim no arquivo:
     ```bash
     [FundosConfig]
@@ -55,7 +55,7 @@ Ficara assim no arquivo:
     EmailRemetente = kawan.office@gmail.com
 
     EmailPostador = kawan.investimentos@gmail
-    SenhaPostador = pipocadenutela
+    SenhaPostador = pipocadenutella
     ```
  - Agora só executar:
     ```bash
