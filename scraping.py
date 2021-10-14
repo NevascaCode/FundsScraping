@@ -39,7 +39,6 @@ class WebScraping:
 
         with self.console.status("📨 [#d57bff]Enviando Email...", spinner="dots"):
             self.enviar_email()
-            self.console.print("📨 [#fffc58]- [#00ff9c]Email Enviado!")
 
     @staticmethod
     def salvar_dados_em_csv(lista_dados:list):
@@ -97,6 +96,8 @@ class WebScraping:
                 contents = 'Aqui está os FIIs que você tem interesse em saber!',
                 attachments = 'FIIs.csv'
             )
+
+            self.console.print("📨 [#fffc58]- [#00ff9c]Email Enviado!")
 
         except smtplib.SMTPAuthenticationError:
             self.console.print("🛑 [#ff5680]Usuário ou senha inválidos! 🛑")
