@@ -4,7 +4,6 @@ import yagmail
 import smtplib
 import requests.exceptions
 
-
 from bs4 import BeautifulSoup
 from configparser import ConfigParser
 from rich.console import Console
